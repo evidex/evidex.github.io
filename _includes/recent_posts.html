@@ -1,0 +1,9 @@
+<ul>
+    {% for post in site.posts limit:8 %}
+        {% if page.url == post.url %}
+            <li class="active"><a href="{{ BASE_PATH }}{{post.url}}" class="active">{{post.title}}</a></li>
+        {% else %}
+            <li><a href="{{ BASE_PATH }}{{post.url}}">{{post.title}}</a></li>
+        {% endif %}
+    {% endfor %}
+</ul>

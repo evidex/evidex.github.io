@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Screenshot   Clean & Simple XFCE"
+title: "Screenshot: Clean & Simple XFCE"
 description: ""
 category: themes
 tags: [xfce]

@@ -23,7 +23,7 @@
 					<ul>
 						<li class="logo"><a href="/">{{ site.title }}</a></li>
 						<li class="archive"><a href="/archive.html">archive</a></li>
-						<li class="page"><a href="/pages.html">pages</a></li>
+                        <!--<li class="page"><a href="/pages.html">pages</a></li>-->
 						<li class="category"><a href="/categories.html">categories</a></li>
 						<li class="tag"><a href="/tags.html">tags</a></li>
 					</ul>
@@ -63,6 +63,12 @@
       	                    {% endif %}
                         {% endfor %}
   	                </ul>
+                </div>
+                <div>
+                    <h4>feeds</h4>
+                    <p>
+                        <a href="{{site.url}}/atom.xml">Atom</a> - <a href="{{site.url}}/rss.xml">RSS</a>
+                    </p>
                 </div>
                 <h4>under the hood</h4>
 				<p class="licence">

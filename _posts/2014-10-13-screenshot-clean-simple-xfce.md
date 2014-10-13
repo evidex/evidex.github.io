@@ -10,10 +10,10 @@ Here's a look at my current desktop setup.
 
 Details
 -------
-WM - XFCE4
-Terminal - Terminator
-Theme - Greybird
-Wallpaper - [Hawkeye Minimalist Wallpaper](http://blog.saijogeorge.com/minimalist-superhero-supervillain-wallpapers-windows-phone-android/)
++ WM - XFCE4
++ Terminal - Terminator
++ Theme - Greybird
++ Wallpaper - [Hawkeye Minimalist Wallpaper](http://blog.saijogeorge.com/minimalist-superhero-supervillain-wallpapers-windows-phone-android/)
 
 Clean:
 ![XFCE4 desktop with Hawkeye Minimalist Wallpaer using Greybird theme]({{ site.url }}/assets/images/screenshots/screenshot_131014_clean.png)

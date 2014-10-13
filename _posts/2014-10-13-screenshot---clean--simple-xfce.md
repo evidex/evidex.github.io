@@ -16,7 +16,7 @@ Theme - Greybird
 Wallpaper - [Hawkeye Minimalist Wallpaper](http://blog.saijogeorge.com/minimalist-superhero-supervillain-wallpapers-windows-phone-android/)
 
 Clean:
-![XFCE4 desktop with Hawkeye Minimalist Wallpaer using Greybird theme]({{ site.url }}/assets/images/screenshots/screenshot_131014_clean.png 50%)
+![XFCE4 desktop with Hawkeye Minimalist Wallpaer using Greybird theme]({{ site.url }}/assets/images/screenshots/screenshot_131014_clean.png 200px)
 
 Busy:
-![XFCE4 desktop with Hawkeye Minimalist Wallpaer using Greybird theme showing Terminator terminal]({{ site.url }}/assets/images/screenshots/screenshot_131014_busy.png 50%)
+![XFCE4 desktop with Hawkeye Minimalist Wallpaer using Greybird theme showing Terminator terminal]({{ site.url }}/assets/images/screenshots/screenshot_131014_busy.png 200px)

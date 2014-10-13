@@ -3,7 +3,7 @@ layout: post
 title: "HOWTO: Find size of terminal in Python"
 description: ""
 category: coding
-tags: [python]
+tags: [python, howto]
 ---
 {% include JB/setup %}
 This small code snippet show how to find the number of rows and columns in your Python terminal.

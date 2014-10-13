@@ -1478,6 +1478,9 @@ hr {
   *display: inline;
   float: left;
 }
+img {
+    width:100%;
+}
 .right {
   *display: inline;
   float: right;

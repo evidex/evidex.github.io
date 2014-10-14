@@ -60,5 +60,5 @@ For those interested, here's the contents of my .conkyrc
     no_buffers yes
     
     TEXT
-    ${voffset 3}${cpubar 6,100}${voffset -1}  @ $freq_g Ghz | $mem RAM | ${fs_used_perc /}% ROOT | ${execi 2 sensors | grep Physical | cut -c 18-24} CPU | ${execi 2 hddtemp /dev/sda | cut -c 33-37} HDD | ${execpi 60 ~/bin/gmail.py}
+    ${voffset 3}${cpubar 6,100}${voffset -1}  @ $freq_g Ghz | $mem RAM | ${fs_used_perc /}% ROOT | ${execi 2 sensors | grep Physical | cut -c 18-19}°C CPU | ${execi 2 hddtemp /dev/sda | cut -c 33-37} HDD | ${execpi 60 ~/bin/gmail.py}
 

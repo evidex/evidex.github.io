@@ -11,7 +11,7 @@ For quite a while, I've loved playing the Wikipedia Philosophy game, which I fir
 
 [According to Wikipedia](http://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy) this works for about 95% of Wikipedia pages. For the fun, I decided to write a Python script, which would select a bunch of random pages, and attempt to travel to Philosophy. 
 
-The script uses the fantastic [Python Requests](http://docs.python-requests.org/en/latest/) module, along with [BeautifulSoup4](http://www.crummy.com/software/BeautifulSoup/) to request and parse Wikipedia pages. The project is a fork of [David Muller's getting_to_philosophy](https://github.com/DavidMuller/getting_to_philosophy), allowing me to re-use his code for correctly parsing the first non-italicized link from the raw HTML.
+The script uses the fantastic [Python Requests](http://docs.python-requests.org/en/latest/) module, along with [BeautifulSoup4](http://www.crummy.com/software/BeautifulSoup/) to request and parse Wikipedia pages. The project is a fork of [David Muller's getting_to_philosophy](https://github.com/DavidMuller/getting_to_philsophy), allowing me to re-use his code for correctly parsing the first non-italicized link from the raw HTML.
 
 Once the script has played the game a number of times, it generates a nice tree of the Wikipedia pages it's visited, along with some basic statistics. Below is an example for 5 random pages, and [here]({{ site.url }}/assets/images/get_to_philosophy/random_to_philosophy_100.png)(~4Mb PNG) you can see the massive tree for 100 pages.
 

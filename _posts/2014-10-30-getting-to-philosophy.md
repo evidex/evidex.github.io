@@ -3,7 +3,7 @@ layout: post
 title: "Getting to Philosophy"
 description: ""
 category: coding
-tags: [python]
+tags: [python, projects]
 ---
 {% include JB/setup %}
 

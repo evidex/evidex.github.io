@@ -3,7 +3,7 @@ layout: post
 title: "Jn: A simple command line diary"
 description: ""
 category: coding
-tags: [bash]
+tags: [bash, projects]
 ---
 {% include JB/setup %}
 

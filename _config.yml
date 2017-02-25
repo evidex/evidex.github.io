@@ -9,10 +9,10 @@ highlighter: rouge
 # so be sure to set them if your theme uses them.
 #
 theme: "the-program"
-title : Evidex Development
+title : evidex.me
 tagline: 
 author :
-  name : Evidex
+  name : David Hayes
   email : contact@evidex.me
   github : evidex
   twitter : evidex

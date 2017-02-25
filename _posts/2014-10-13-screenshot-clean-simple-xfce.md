@@ -13,7 +13,7 @@ Details
 + WM - XFCE4
 + Terminal - Terminator
 + Theme - Greybird
-+ Wallpaper - [Hawkeye Minimalist Wallpaper](http://blog.saijogeorge.com/minimalist-superhero-supervillain-wallpapers-windows-phone-android/)
++ Wallpaper - Hawkeye Minimalist Wallpaper
 
 Clean:
 ![XFCE4 desktop with Hawkeye Minimalist Wallpaer using Greybird theme]({{ site.url }}/assets/images/screenshots/screenshot_131014_clean.png)
